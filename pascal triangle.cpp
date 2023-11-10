@@ -1,8 +1,8 @@
 #include <stdio.h>
-int main()
+void main()
 {
-  printf("      *\n\t");
-  printf("*  *\n\t");
+  print("      *\n\t");
+  print("*  *\n\t");
     
 
 }
